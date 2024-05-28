@@ -1,0 +1,2050 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name=”description” content="education, catholic school, Adamson, University, Manila, uaap, top school manila" />
+  <meta name="keywords" content="education, catholic school, manila, low tuition fee, best school" />
+  <meta name="author" content="Information Technology Center" />
+
+  <title>Adamson University</title>
+  <link rel="shortcut icon" href="images/favicon.ico" />
+  <link href="css/css.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Vollkorn:400,400italic' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="css/lightbox.css">
+  <script src="js/lightbox-plus-jquery.js"></script>
+
+  <!--FOR COUNT DOWN JS-->
+
+  <!--END COUNT DOWN-->
+  <link href="css/carousel/custom.css" rel="stylesheet">
+  <link href="css/carousel/owl.carousel.css" rel="stylesheet">
+  <link href="css/carousel/owl.theme.css" rel="stylesheet">
+
+  <!--<script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>-->
+  <!--<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>-->
+  <!--<link type="text/css" href="http://learn.adamson.edu.ph/V4/css/redmond/jquery-ui-1.8.2.custom.css" rel="stylesheet" />	-->
+  <script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+  <script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+
+
+  <script src="js/jquery.tipTip.js" type="text/javascript" charset="utf-8"></script>
+  <link href="css/tipTip.css" rel="stylesheet" type="text/css" />
+
+  	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-28886454-1']);
+      _gaq.push(['_trackPageview']);
+    
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126120352-1"></script>
+    <!-- code for analytics@ada -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-126120352-1');
+    </script>
+
+</head>
+
+<body>
+    <div id="primary">
+    <div id="topmenu">
+	<!-- TOP LINKS FOR INSIDE -->
+
+<style type="text/css">
+    #socialtop td {
+        padding-right: 13px;
+        font-size: 19px;
+    }
+
+    #socialtop a {
+        color: #fff;
+        opacity: 0.8;
+    }
+
+    #socialtop span {
+        margin-right: 15px;
+        font-size: 13px;
+    }
+
+    .gsc-control-cse-en {
+        background-color: none !important;
+        float: none;
+    }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<div id="topmenu">
+    <div id="span3" style="border-bottom: #002754 solid thin">
+        <div id="span5">
+            <table>
+                <tr>
+                    <td valign="top" style="width: 270px; padding-top: 8px; padding-left: 10px;">
+                        <table id="socialtop">
+                            <tr>
+                                <td><a href="./"><img src="images/adulogo.jpg" height="30" style="margin-right: 10px; "></a></td>
+                                <!-- <td><a href="https://www.facebook.com/AdamsonUniversity.Official/" target="_blank"><i class="fa fa-facebook"></i></a></td>
+                                <td><a href="https://www.youtube.com/user/TheAdamsonUniversity" target="_blank"><i class="fa fa-youtube"></i></a></td>
+                                <td><a href="https://twitter.com/adamson_u" target="_blank"><i class="fa fa-twitter"></i></a></td> -->
+                                <td><a href=".?page=search"><i class="fa fa-search"></i><span style="font-size: 12px; margin-left: 8px; text-decoration: underline; ">Search</span></a> </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table class="menu-minor2">
+                            <tr>
+                                <td><a href="./?page=data-processing-statement" style="font-weight: 600;">Data Privacy Notice</a></td>
+                                <td>
+                                    <a href="https://www.adamson.edu.ph/cpdd" target="_blank" style="font-size: 11px; ">Continuing Professional <br>Development Department</a>
+                                </td>
+                                <td><a href="./?page=jobs" style="font-weight: 400;">Jobs</a></td>
+                                <td><a href="./?page=admission" style="font-weight: 400;">Admission</a></td>
+                                <td><a href="https://live.adamson.edu.ph/V4/" target="_blank" style="font-weight: 400;">AdU Live</a></td>
+                                <td><a href="./?page=alumni-tracer-data-privacy" style="font-weight: 400;">Alumni Tracer</a></td>
+                                <td><span href="" onclick="myFunction()" class="dropbtn"  style="font-weight: 400; font-size: 12px;">Alumni</span>
+                                  <div id="myDropdown" class="dropdown-content">
+                                    <a href="./?page=auaai">Adamson University Alumni Association Inc.</a>
+                                    <a href="./?page=oia-vision-mission">Office for Institutional Advancement</a>
+                                  </div>
+                                </td>
+                                <td><a href="https://learn.adamson.edu.ph" target="_blank" style="font-weight: 400;">E-Learning</a></td>
+                            </tr>
+                        </table>
+                        <!-- <div id="menu-minor">
+                              <ul>
+                                <li><a href="https://www.adamson.edu.ph/cpdd" target="_blank" style="font-size: 11px; ">Continuing Professional <br>Development Department</a></li>
+                                <li><a href="./?page=admission" target="_blank" style="font-weight: 400;">Admission</a></li>
+                                <li><a href="https://live.adamson.edu.ph/V4/" target="_blank" style="font-weight: 400;">AdU Live</a></li>
+                                <li><a href="./?page=alumni-tracer">Alumni Tracer</a></li>
+                                <li><a href="https://learn.adamson.edu.ph" target="_blank" style="font-weight: 400;">E-Learning</a></li>
+                             </ul> 
+                         </div> -->
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
+
+</div>
+    <div id="span4" style="border-top: #009ef8 solid thin"> 
+    <div id="span6">
+        <table>
+            <tr>
+                <!-- <td valign="top" style="width: 1280px;"> -->
+                  <td valign="top" style="width: 1024px;">
+                    <div id="menu-major">
+                        <ul>
+                            <li><a href="./?page=academics">Academics</a></li>
+                            <li><a href="./?page=news">News</a></li>
+                            <li><a href="./?page=about">About AdU</a></li>
+                            <li><a href="./?page=students">Student Life</a></li>
+                            <li><a href="./?page=library">Library</a></li>
+                            <!-- <li><span href="" onclick="myFunction()" class="dropbtn">Alumni</span>
+                              <div id="myDropdown" class="dropdown-content">
+                                <a href="./?page=auaai">Adamson University Alumni Association Inc.</a>
+                                <a href="./?page=oia-vision-mission">Office for Institutional Advancement</a>
+                              </div>
+                            </li> -->
+                            <li><a href="./?page=sports">Sports</a></li>
+                            <li><a href="./?page=registrar">Registrar</a></li>
+                            <li><a href="./?page=finance">Finance</a></li>
+                            <li><a href="./?page=offices&oid=2">Services</a></li>
+                            <li ><a href="./?page=klasmeyt-culture" style="font-size: 12px; font-weight: bold; text-decoration: underline; ">Klasmeyt Culture</a></li>
+                        </ul> 
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>        
+</div>
+
+<style>
+.dropbtn {
+
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #0080C9;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+</style>
+
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>    
+</div>
+
+<div id="homebody">
+	<div style="height: 20px;">
+</div> 
+<!--
+<div id="breadcrumbs">
+    <table>
+        <tr>
+            <td><img src="images/icons/homebreadcrmps.jpg" /></td>
+            
+            <td><a href="./?page=""">Home</a></td>
+            <td><img src="images/icons/next-brdcrmps.jpg" /></td>
+            
+        </tr>
+    </table>
+</div>-->    
+    	<table width="100%">
+        	<tr>
+            	<td valign="top" width="70%" class="col-left">
+                	<div style="padding:0px 20px;">
+	    <div class="curicors" style="text-align:center; font-weight: 600; font-size: 22px;">
+    B.S. COMPUTER SCIENCE                                                                                                                                     </div>
+    <div class="titleright2" style="text-align:center;">
+    	<h3>Curriculum Year 2022 </h3>
+    </div>
+    
+            <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            First Year, 1st Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9721</td>
+                                <td style="width:80px;">CS116L</td>
+                                <td style="width:250px;">GRAPHICS DESIGN 1 LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">5312</td>
+                                <td style="width:80px;">NSTP1</td>
+                                <td style="width:250px;">NSTP 1</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>5308  </span><span style='padding-right:10px;'>CWT111   </span>CIVIC WELFARE TRAINING SERVICE</div><div style="font-size:11px;"><span style='padding-right:10px;'>5302  </span><span style='padding-right:10px;'>CT111A   </span>CMT1</div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">600001</td>
+                                <td style="width:80px;">TH111E   </td>
+                                <td style="width:250px;">SEARCHING FOR GOD IN THE WORLD TODAY              </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">040001</td>
+                                <td style="width:80px;">MH110    </td>
+                                <td style="width:250px;">MATHEMATICS IN THE MODERN WORLD                   </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">080078</td>
+                                <td style="width:80px;">PH114    </td>
+                                <td style="width:250px;">ETHICS                                            </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">010004</td>
+                                <td style="width:80px;">EN110    </td>
+                                <td style="width:250px;">PURPOSIVE COMMUNICATION                           </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">040004</td>
+                                <td style="width:80px;">MH103    </td>
+                                <td style="width:250px;">COMPUTING 1                                       </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250068</td>
+                                <td style="width:80px;">CS118L</td>
+                                <td style="width:250px;">INTRODUCTION TO COMPUTING LAB.</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250067</td>
+                                <td style="width:80px;">CS118</td>
+                                <td style="width:250px;">INTRODUCTION TO COMPUTING LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9719</td>
+                                <td style="width:80px;">CS115</td>
+                                <td style="width:250px;">COMPUTER PROGRAMMING 1 LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9720</td>
+                                <td style="width:80px;">CS115L</td>
+                                <td style="width:250px;">COMPUTER PROGRAMMING 1 LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">090002</td>
+                                <td style="width:80px;">PE111C</td>
+                                <td style="width:250px;">PATHFIT1: MOVEMENT COMPETENCY TRAINING</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">27</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            First Year, 2nd Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250015</td>
+                                <td style="width:80px;">CS121    </td>
+                                <td style="width:250px;">APPLICATIONS DEVT & EMERGING TECHNOLOGIES LEC     </td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LEC" style="cursor:pointer;">9719</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250016</td>
+                                <td style="width:80px;">CS121L   </td>
+                                <td style="width:250px;">APPLICATIONS DEVT & EMERGING TECHNOLOGIES LAB     </td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LAB" style="cursor:pointer;">9720</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">5321</td>
+                                <td style="width:80px;">NSTP2</td>
+                                <td style="width:250px;">NSTP 2</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="NSTP 1" style="cursor:pointer;">5312</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>5310  </span><span style='padding-right:10px;'>CWT121   </span>CIVIC WELFARE TRAINING SRVCE 2</div><div style="font-size:11px;"><span style='padding-right:10px;'>5304  </span><span style='padding-right:10px;'>CT121A   </span>CMT2</div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">090003</td>
+                                <td style="width:80px;">PE121C</td>
+                                <td style="width:250px;">PATHFIT2: EXERCISE-BASED FITNESS ACTIVITIES</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">260014</td>
+                                <td style="width:80px;">PY111</td>
+                                <td style="width:250px;">UNDERSTANDING THE SELF</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">070006</td>
+                                <td style="width:80px;">PC110    </td>
+                                <td style="width:250px;">SCIENCE, TECHNOLOGY AND SOCIETY                   </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">600002</td>
+                                <td style="width:80px;">TH121E   </td>
+                                <td style="width:250px;">RESPONDING TO GOD`S CALL BY BECOMING FULLY HUMAN  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SEARCHING FOR GOD IN THE WORLD TODAY              " style="cursor:pointer;">600001</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">070016</td>
+                                <td style="width:80px;">PC217L   </td>
+                                <td style="width:250px;">APPLIED PHYSICS FOR IT LAB                        </td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LAB" style="cursor:pointer;">9720</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">070015</td>
+                                <td style="width:80px;">PC217    </td>
+                                <td style="width:250px;">APPLIED PHYSICS FOR IT LEC                        </td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LEC" style="cursor:pointer;">9719</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9724</td>
+                                <td style="width:80px;">CS124L</td>
+                                <td style="width:250px;">COMPUTER PROGRAMMING 2 LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LAB" style="cursor:pointer;">9720</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9723</td>
+                                <td style="width:80px;">CS124</td>
+                                <td style="width:250px;">COMPUTER PROGRAMMING 2 LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LEC" style="cursor:pointer;">9719</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9882</td>
+                                <td style="width:80px;">CS325L</td>
+                                <td style="width:250px;">OBJECT ORIENTED PROG'G. LAB.</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LAB" style="cursor:pointer;">9720</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9881</td>
+                                <td style="width:80px;">CS325</td>
+                                <td style="width:250px;">OBJECT ORIENTED PROG'G. LEC.</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LEC" style="cursor:pointer;">9719</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">040006</td>
+                                <td style="width:80px;">MH123A   </td>
+                                <td style="width:250px;">COMPUTING 2                                       </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 1                                       " style="cursor:pointer;">040004</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">29</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Second Year, 1st Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9732</td>
+                                <td style="width:80px;">CS229L</td>
+                                <td style="width:250px;">COMPUTER ANIMATION LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="GRAPHICS DESIGN 1 LAB" style="cursor:pointer;">9721</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">600003</td>
+                                <td style="width:80px;">TH211E   </td>
+                                <td style="width:250px;">CELEBRATING GOD`S PRESENCE AS A CHRISTIAN COMM    </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="RESPONDING TO GOD`S CALL BY BECOMING FULLY HUMAN  " style="cursor:pointer;">600002</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">080076</td>
+                                <td style="width:80px;">HI112</td>
+                                <td style="width:250px;">READINGS IN PHILIPPINE HISTORY</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">4505  </td>
+                                <td style="width:80px;">HU311    </td>
+                                <td style="width:250px;">ART APPRECIATION                                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">080077</td>
+                                <td style="width:80px;">HI113</td>
+                                <td style="width:250px;">THE CONTEMPORARY WORLD</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">040007</td>
+                                <td style="width:80px;">MH219A   </td>
+                                <td style="width:250px;">COMPUTING 3                                       </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 2                                       " style="cursor:pointer;">040006</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250017</td>
+                                <td style="width:80px;">CS216</td>
+                                <td style="width:250px;">DISCRETE STRUCTURES 1</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 1                                       " style="cursor:pointer;">040004</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LEC" style="cursor:pointer;">9723</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LAB" style="cursor:pointer;">9724</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9734</td>
+                                <td style="width:80px;">CS230L</td>
+                                <td style="width:250px;">DIGITAL DESIGN LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 1                                       " style="cursor:pointer;">040004</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9733</td>
+                                <td style="width:80px;">CS230</td>
+                                <td style="width:250px;">DIGITAL DESIGN LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 1                                       " style="cursor:pointer;">040004</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9810</td>
+                                <td style="width:80px;">CS223</td>
+                                <td style="width:250px;">DATA STRUCTURE & ALGORITHM</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 1 LEC" style="cursor:pointer;">9719</span>, <span class="tip2" title="COMPUTER PROGRAMMING 1 LAB" style="cursor:pointer;">9720</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LEC." style="cursor:pointer;">9881</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LAB." style="cursor:pointer;">9882</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">090004</td>
+                                <td style="width:80px;">PE211C</td>
+                                <td style="width:250px;">PATHFIT3:DANCE</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">27</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Second Year, 2nd Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250019</td>
+                                <td style="width:80px;">CS228A</td>
+                                <td style="width:250px;">INFORMATION MANAGEMENT LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 2 LEC" style="cursor:pointer;">9723</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">090005</td>
+                                <td style="width:80px;">PE221C</td>
+                                <td style="width:250px;">PATHFIT4:SPORTS</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">600004</td>
+                                <td style="width:80px;">TH221E   </td>
+                                <td style="width:250px;">TRANSFORMING THE WORLD WITH VINCENT DE PAUL       </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="CELEBRATING GOD`S PRESENCE AS A CHRISTIAN COMM    " style="cursor:pointer;">600003</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">4403  </td>
+                                <td style="width:80px;">HI311    </td>
+                                <td style="width:250px;">RIZAL'S LIFE & WORKS                              </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">6672  </td>
+                                <td style="width:80px;">MH428    </td>
+                                <td style="width:250px;">OPERATIONS RESEARCH                               </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 1                                       " style="cursor:pointer;">040004</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">6572  </td>
+                                <td style="width:80px;">MH425B   </td>
+                                <td style="width:250px;">NUMERICAL ANALYSIS                                </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTING 2                                       " style="cursor:pointer;">040006</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250025</td>
+                                <td style="width:80px;">CS313B</td>
+                                <td style="width:250px;">ALGORITHMS AND COMPLEXITY</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="DATA STRUCTURE & ALGORITHM" style="cursor:pointer;">9810</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250021</td>
+                                <td style="width:80px;">CS227</td>
+                                <td style="width:250px;">PROGRAMMING LANGUAGES</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="DATA STRUCTURE & ALGORITHM" style="cursor:pointer;">9810</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LEC." style="cursor:pointer;">9881</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LAB." style="cursor:pointer;">9882</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LEC" style="cursor:pointer;">9723</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LAB" style="cursor:pointer;">9724</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250018</td>
+                                <td style="width:80px;">CS220</td>
+                                <td style="width:250px;">DISCRETE STRUCTURES 2</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="DISCRETE STRUCTURES 1                             " style="cursor:pointer;">250017</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250020</td>
+                                <td style="width:80px;">CS228AL</td>
+                                <td style="width:250px;">INFORMATION MANAGEMENT LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMPUTER PROGRAMMING 2 LAB" style="cursor:pointer;">9724</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">6913  </td>
+                                <td style="width:80px;">NS211    </td>
+                                <td style="width:250px;">ENVIRONMENTAL SCIENCE                             </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">29</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Third Year, 1st Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250002</td>
+                                <td style="width:80px;">CS425A</td>
+                                <td style="width:250px;">ARTIFICIAL INTELLIGENCE</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="OBJECT ORIENTED PROG'G. LEC." style="cursor:pointer;">9881</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LAB." style="cursor:pointer;">9882</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LEC" style="cursor:pointer;">9723</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LAB" style="cursor:pointer;">9724</span>, <span class="tip2" title="DATA STRUCTURE & ALGORITHM" style="cursor:pointer;">9810</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">6573  </td>
+                                <td style="width:80px;">MH412C   </td>
+                                <td style="width:250px;">ADVANCED STATISTICS                               </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="NUMERICAL ANALYSIS" style="cursor:pointer;">6572</span>, <span class="tip2" title="DISCRETE STRUCTURES 1                             " style="cursor:pointer;">250017</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250027</td>
+                                <td style="width:80px;">CSRS2    </td>
+                                <td style="width:250px;">REQUIRED SPECIALIZATION COURSE 2                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="COMP ORG & ASSEMBLY LANG LEC" style="cursor:pointer;">9737</span>, <span class="tip2" title="COMP ORG & ASSEMBLY LANG LAB" style="cursor:pointer;">9738</span>, <span class="tip2" title="PROGRAMMING LANGUAGES                             " style="cursor:pointer;">250021</span>, <span class="tip2" title="COMPUTER ANIMATION LAB" style="cursor:pointer;">9732</span>, <span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span></td>
+                                <td style="width:83px;"><span class="tip2" title="ARTIFICIAL INTELLIGENCE                           " style="cursor:pointer;">250002</span></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250045</span><span style='padding-right:10px;'>CS457    </span>RSC1- GAME DEVELOPMENT LEC                        </div><div style="font-size:11px;"><span style='padding-right:10px;'>250070</span><span style='padding-right:10px;'>CS461L   </span>RSC2- MACHINE LEARNING LAB                        </div><div style="font-size:11px;"><span style='padding-right:10px;'>250069</span><span style='padding-right:10px;'>CS461    </span>RSC2- MACHINE LEARNING LEC                        </div><div style="font-size:11px;"><span style='padding-right:10px;'>250046</span><span style='padding-right:10px;'>CS457L   </span>RSC1- GAME DEVELOPMENT LAB                        </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250026</td>
+                                <td style="width:80px;">CSRS1    </td>
+                                <td style="width:250px;">REQUIRED SPECIALIZATION COURSE 1                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span>, <span class="tip2" title="COMP ORG & ASSEMBLY LANG LEC" style="cursor:pointer;">9737</span>, <span class="tip2" title="COMP ORG & ASSEMBLY LANG LAB" style="cursor:pointer;">9738</span>, <span class="tip2" title="PROGRAMMING LANGUAGES                             " style="cursor:pointer;">250021</span>, <span class="tip2" title="COMPUTER ANIMATION LAB" style="cursor:pointer;">9732</span></td>
+                                <td style="width:83px;"><span class="tip2" title="ARTIFICIAL INTELLIGENCE                           " style="cursor:pointer;">250002</span></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250050</span><span style='padding-right:10px;'>CS460L   </span>RSC2- DATA MINING LAB                             </div><div style="font-size:11px;"><span style='padding-right:10px;'>250054</span><span style='padding-right:10px;'>CS463L   </span>RSC3- INTRODUCTION TO DIGITAL IMAGE PROCESSING LAB</div><div style="font-size:11px;"><span style='padding-right:10px;'>250049</span><span style='padding-right:10px;'>CS460    </span>RSC2- DATA MINING LEC                             </div><div style="font-size:11px;"><span style='padding-right:10px;'>250041</span><span style='padding-right:10px;'>CS455    </span>RSC1- MOBILE DEVELOPMENT LEC                      </div><div style="font-size:11px;"><span style='padding-right:10px;'>250053</span><span style='padding-right:10px;'>CS463    </span>RSC3- INTRODUCTION TO DIGITAL IMAGE PROCESSING LEC</div><div style="font-size:11px;"><span style='padding-right:10px;'>250042</span><span style='padding-right:10px;'>CS455L   </span>RSC1- MOBILE DEVELOPMENT LAB                      </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9738</td>
+                                <td style="width:80px;">CS318L</td>
+                                <td style="width:250px;">COMP ORG & ASSEMBLY LANG LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="DIGITAL DESIGN LAB" style="cursor:pointer;">9734</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9737</td>
+                                <td style="width:80px;">CS318</td>
+                                <td style="width:250px;">COMP ORG & ASSEMBLY LANG LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="DIGITAL DESIGN LEC" style="cursor:pointer;">9733</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250024</td>
+                                <td style="width:80px;">CS310A</td>
+                                <td style="width:250px;">AUTOMATA THEORY & FORMAL LANGUAGES</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="DISCRETE STRUCTURES 1                             " style="cursor:pointer;">250017</span>, <span class="tip2" title="COMP ORG & ASSEMBLY LANG LEC" style="cursor:pointer;">9737</span>, <span class="tip2" title="COMP ORG & ASSEMBLY LANG LAB" style="cursor:pointer;">9738</span>, <span class="tip2" title="PROGRAMMING LANGUAGES                             " style="cursor:pointer;">250021</span>, <span class="tip2" title="DATA STRUCTURE & ALGORITHM" style="cursor:pointer;">9810</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250023</td>
+                                <td style="width:80px;">CS319A</td>
+                                <td style="width:250px;">SOFTWARE ENGINEERING 1</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="APPLICATIONS DEVT & EMERGING TECHNOLOGIES LEC     " style="cursor:pointer;">250015</span>, <span class="tip2" title="APPLICATIONS DEVT & EMERGING TECHNOLOGIES LAB     " style="cursor:pointer;">250016</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LEC." style="cursor:pointer;">9881</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LEC" style="cursor:pointer;">9723</span>, <span class="tip2" title="COMPUTER PROGRAMMING 2 LAB" style="cursor:pointer;">9724</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LAB." style="cursor:pointer;">9882</span>, <span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9731</td>
+                                <td style="width:80px;">CS341</td>
+                                <td style="width:250px;">HUMAN COMPUTER INTERACTION</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="ALGORITHMS AND COMPLEXITY                         " style="cursor:pointer;">250025</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">4910  </td>
+                                <td style="width:80px;">PS221B   </td>
+                                <td style="width:250px;">POLITICS & GOVERNANCE WITH PHILIPPINE CONSTITUTION</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">27</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Third Year, 2nd Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9748</td>
+                                <td style="width:80px;">CS419A</td>
+                                <td style="width:250px;">CS RESEARCH PROJECT 1</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="ETHICS                                            " style="cursor:pointer;">080078</span>, <span class="tip2" title="MATHEMATICS IN THE MODERN WORLD                   " style="cursor:pointer;">040001</span>, <span class="tip2" title="APPLIED PHYSICS FOR IT LEC                        " style="cursor:pointer;">070015</span>, <span class="tip2" title="APPLIED PHYSICS FOR IT LAB                        " style="cursor:pointer;">070016</span>, <span class="tip2" title="TRANSFORMING THE WORLD INTO GOD`S REIGN           " style="cursor:pointer;">600004</span>, <span class="tip2" title="NSTP 2                                            " style="cursor:pointer;">5321</span>, <span class="tip2" title="COMPUTER ANIMATION LAB" style="cursor:pointer;">9732</span>, <span class="tip2" title="OPERATIONS RESEARCH" style="cursor:pointer;">6672</span>, <span class="tip2" title="AUTOMATA THEORY & FORMAL LANGUAGES                " style="cursor:pointer;">250024</span>, <span class="tip2" title="ADVANCED STATISTICS" style="cursor:pointer;">6573</span>, <span class="tip2" title="TECHNOPRENEURSHIP                                 " style="cursor:pointer;">250022</span>, <span class="tip2" title="PROGRAMMING LANGUAGES                             " style="cursor:pointer;">250021</span>, <span class="tip2" title="POLITICS & GOVERNANCE W/ PC" style="cursor:pointer;">4910</span>, <span class="tip2" title="PURPOSIVE COMMUNICATION                           " style="cursor:pointer;">010004</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250033</td>
+                                <td style="width:80px;">CSPE1    </td>
+                                <td style="width:250px;">PROFESSIONAL ELECTIVE 1                           </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="AUTOMATA THEORY & FORMAL LANGUAGES                " style="cursor:pointer;">250024</span>, <span class="tip2" title="SOFTWARE ENGINEERING 1                            " style="cursor:pointer;">250023</span></td>
+                                <td style="width:83px;"><span class="tip2" title="TECHNOPRENEURSHIP                                 " style="cursor:pointer;">250022</span></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250060</span><span style='padding-right:10px;'>CS467    </span>PE - CODING THEORY AND CRYPTOLOGY                 </div><div style="font-size:11px;"><span style='padding-right:10px;'>250065</span><span style='padding-right:10px;'>CS468    </span>PE- PARALLEL AND DISTRIBUTED COMPUTING            </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250022</td>
+                                <td style="width:80px;">CS311B</td>
+                                <td style="width:250px;">TECHNOPRENEURSHIP</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span>, <span class="tip2" title="APPLICATIONS DEVT & EMERGING TECHNOLOGIES LEC     " style="cursor:pointer;">250015</span>, <span class="tip2" title="APPLICATIONS DEVT & EMERGING TECHNOLOGIES LAB     " style="cursor:pointer;">250016</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LEC." style="cursor:pointer;">9881</span>, <span class="tip2" title="OBJECT ORIENTED PROG'G. LAB." style="cursor:pointer;">9882</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250028</td>
+                                <td style="width:80px;">CSRS3    </td>
+                                <td style="width:250px;">REQUIRED SPECIALIZATION COURSE 3                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SOFTWARE ENGINEERING 1                            " style="cursor:pointer;">250023</span>, <span class="tip2" title="AUTOMATA THEORY & FORMAL LANGUAGES                " style="cursor:pointer;">250024</span>, <span class="tip2" title="REQUIRED SPECIALIZATION COURSE 1                  " style="cursor:pointer;">250026</span>, <span class="tip2" title="REQUIRED SPECIALIZATION COURSE 2                  " style="cursor:pointer;">250027</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250043</span><span style='padding-right:10px;'>CS456    </span>RSC1- ADVANCED WEB DEVELOPMENT LEC                </div><div style="font-size:11px;"><span style='padding-right:10px;'>250056</span><span style='padding-right:10px;'>CS464L   </span>RSC3- ADVANCED DIGITAL IMAGE PROCESSING LAB       </div><div style="font-size:11px;"><span style='padding-right:10px;'>250044</span><span style='padding-right:10px;'>CS456L   </span>RSC1- ADVANCED WEB DEVELOPMENT LAB                </div><div style="font-size:11px;"><span style='padding-right:10px;'>250055</span><span style='padding-right:10px;'>CS464    </span>RSC3- ADVANCED DIGITAL IMAGE PROCESSING LEC       </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250030</td>
+                                <td style="width:80px;">CS438A</td>
+                                <td style="width:250px;">SOFTWARE ENGINEERING 2</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SOFTWARE ENGINEERING 1                            " style="cursor:pointer;">250023</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9816</td>
+                                <td style="width:80px;">CS314L</td>
+                                <td style="width:250px;">OPERATING SYSTEMS LAB.</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMP ORG & ASSEMBLY LANG LAB" style="cursor:pointer;">9738</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9815</td>
+                                <td style="width:80px;">CS314</td>
+                                <td style="width:250px;">OPERATING SYSTEMS LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMP ORG & ASSEMBLY LANG LEC" style="cursor:pointer;">9737</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250032</td>
+                                <td style="width:80px;">CS411CL</td>
+                                <td style="width:250px;">NETWORKS AND COMMUNICATION LAB</td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="COMP ORG & ASSEMBLY LANG LAB" style="cursor:pointer;">9738</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250031</td>
+                                <td style="width:80px;">CS411C</td>
+                                <td style="width:250px;">NETWORKS AND COMMUNICATION LEC</td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="COMP ORG & ASSEMBLY LANG LEC" style="cursor:pointer;">9737</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">1667  </td>
+                                <td style="width:80px;">AC116    </td>
+                                <td style="width:250px;">BASIC ACCOUNTING                                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">24</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Third Year, Summer        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9751</td>
+                                <td style="width:80px;">CS422</td>
+                                <td style="width:250px;">PROJECT MANAGEMENT</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span>, <span class="tip2" title="AUTOMATA THEORY & FORMAL LANGUAGES                " style="cursor:pointer;">250024</span>, <span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span>, <span class="tip2" title="TECHNOPRENEURSHIP                                 " style="cursor:pointer;">250022</span>, <span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250029</td>
+                                <td style="width:80px;">CSRS4    </td>
+                                <td style="width:250px;">REQUIRED SPECIALIZATION COURSE 4                  </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span>, <span class="tip2" title="REQUIRED SPECIALIZATION COURSE 3                  " style="cursor:pointer;">250028</span>, <span class="tip2" title="HUMAN COMPUTER INTERACTION" style="cursor:pointer;">9731</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250040</span><span style='padding-right:10px;'>CS458    </span>RSC1 - WEB SCIENCE CAPSTONE PROJECT               </div><div style="font-size:11px;"><span style='padding-right:10px;'>250052</span><span style='padding-right:10px;'>CS462    </span>RSC2- DATA SCIENCE CAPSTONE PROJECT               </div><div style="font-size:11px;"><span style='padding-right:10px;'>250059</span><span style='padding-right:10px;'>CS466    </span>RSC3- ROBOT VISION CAPSTONE PROJECT               </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250079</td>
+                                <td style="width:80px;">CS416B</td>
+                                <td style="width:250px;">SOFTWARE QUALITY ASSURANCE</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span>, <span class="tip2" title="INFORMATION MANAGEMENT LEC                        " style="cursor:pointer;">250019</span>, <span class="tip2" title="INFORMATION MANAGEMENT LAB                        " style="cursor:pointer;">250020</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">9</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Fourth Year, 1st Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9742  </td>
+                                <td style="width:80px;">CS342    </td>
+                                <td style="width:250px;">PROFESSIONAL ETHICS                               </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="ETHICS                                            " style="cursor:pointer;">080078</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">9750</td>
+                                <td style="width:80px;">CS420</td>
+                                <td style="width:250px;">CS RESEARCH PROJECT 2</td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="CS RESEARCH PROJECT 1" style="cursor:pointer;">9748</span>, <span class="tip2" title="NETWORKS AND COMMUNICATION LAB                    " style="cursor:pointer;">250032</span>, <span class="tip2" title="HUMAN COMPUTER INTERACTION" style="cursor:pointer;">9731</span>, <span class="tip2" title="PROJECT MANAGEMENT" style="cursor:pointer;">9751</span>, <span class="tip2" title="REQUIRED SPECIALIZATION COURSE 4                  " style="cursor:pointer;">250029</span>, <span class="tip2" title="NETWORKS AND COMMUNICATION LEC                    " style="cursor:pointer;">250031</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250034</td>
+                                <td style="width:80px;">CSPE2    </td>
+                                <td style="width:250px;">PROFESSIONAL ELECTIVE 2                           </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="CS RESEARCH PROJECT 1" style="cursor:pointer;">9748</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250065</span><span style='padding-right:10px;'>CS468    </span>PE- PARALLEL AND DISTRIBUTED COMPUTING            </div><div style="font-size:11px;"><span style='padding-right:10px;'>250060</span><span style='padding-right:10px;'>CS467    </span>PE - CODING THEORY AND CRYPTOLOGY                 </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250035</td>
+                                <td style="width:80px;">CSPE3    </td>
+                                <td style="width:250px;">PROFESSIONAL ELECTIVE 3                           </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="CS RESEARCH PROJECT 1" style="cursor:pointer;">9748</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250060</span><span style='padding-right:10px;'>CS467    </span>PE - CODING THEORY AND CRYPTOLOGY                 </div><div style="font-size:11px;"><span style='padding-right:10px;'>250065</span><span style='padding-right:10px;'>CS468    </span>PE- PARALLEL AND DISTRIBUTED COMPUTING            </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">12</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                        <div style="height:20px;"></div>
+        <div style="background:#ffcf28; padding:5px; text-align:center; border:1px solid #999; font-weight:bold;">
+            Fourth Year, 2nd Semester        </div>
+                        <div style="background:#ebebeb; padding:5px; color:#333;">
+                <table style="border-collapse:collapse; font-weight: 600;" border="0">
+                    <tr>
+                        <td style="width:75px;">Subj No.</td>
+                        <td style="width:80px;">Subj Code</td>
+                        <td style="width:250px;">Description</td>
+                        <td style="width:50px; text-align:center;">Units</td>
+                        <td style="width:150px;">Pre-requisites</td>
+                        <td style="width:83px;">Co-requisites</td>
+                    </tr>
+                </table>
+                </div>
+                                    <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250036</td>
+                                <td style="width:80px;">CSPE4    </td>
+                                <td style="width:250px;">PROFESSIONAL ELECTIVE 4                           </td>
+                                <td style="width:50px; text-align:center;">3</td>
+                                <td style="width:150px;"><span class="tip2" title="PROJECT MANAGEMENT" style="cursor:pointer;">9751</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                            <tr>
+                                    <td colspan="5" style="text-align:left;">
+                                        <div style="padding:5px 5px 5px 75px;">
+                                        <table style="border-collapse:collapse; width:100%;"><tr><td style="width:80px; vertical-align:top;"><span style="font-weight:bold;">Electives : </span>
+                    </td><td><div style="font-size:11px;"><span style='padding-right:10px;'>250060</span><span style='padding-right:10px;'>CS467    </span>PE - CODING THEORY AND CRYPTOLOGY                 </div><div style="font-size:11px;"><span style='padding-right:10px;'>250065</span><span style='padding-right:10px;'>CS468    </span>PE- PARALLEL AND DISTRIBUTED COMPUTING            </div></td></tr></table                                        </div>
+                                    </td>
+                                </tr>
+                                                        </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250066</td>
+                                <td style="width:80px;">CS433B</td>
+                                <td style="width:250px;">APPRENTICESHIP</td>
+                                <td style="width:50px; text-align:center;">6</td>
+                                <td style="width:150px;"><span class="tip2" title="PROJECT MANAGEMENT" style="cursor:pointer;">9751</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250037</td>
+                                <td style="width:80px;">CS410    </td>
+                                <td style="width:250px;">INFORMATION ASSURANCE & SECURITY LEC              </td>
+                                <td style="width:50px; text-align:center;">2</td>
+                                <td style="width:150px;"><span class="tip2" title="OPERATING SYSTEMS" style="cursor:pointer;">9815</span>, <span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                        <div style="padding:5px;" class="curr">
+                        <table style="border-collapse:collapse; width:100%;" border="0">
+                            <tr>
+                                <td style="width:75px;">250038</td>
+                                <td style="width:80px;">CS410L   </td>
+                                <td style="width:250px;">INFORMATION ASSURANCE AND SECURITY LAB            </td>
+                                <td style="width:50px; text-align:center;">1</td>
+                                <td style="width:150px;"><span class="tip2" title="OPERATING SYSTEMS LAB." style="cursor:pointer;">9816</span>, <span class="tip2" title="SOFTWARE ENGINEERING 2                            " style="cursor:pointer;">250030</span></td>
+                                <td style="width:83px;"></td>
+                            </tr>
+                                                    </table>
+                    </div>
+                                    <div style="padding:5px;">
+                    <table style="border-collapse:collapse; width:100%" >
+                        <tr>
+                            <td style="width:75px;"></td>
+                            <td style="width:80px;"></td>
+                            <td style="width:250px; text-align:right; font-size:11px;">Total Units : </td>
+                            <td style="width:50px; text-align:center; font-weight:bold; border-top:1px solid #000; font-size:14px;">12</td>
+                            <td style="width:150px;"></td>
+                            <td style="width:83px;"></td>
+                        </tr>
+                    </table>
+                </div>
+                </div>
+<script type="text/javascript">
+<!--
+$(document).ready(function(){
+	$(".tip2").tipTip({
+		delay: 100
+	});
+	
+	$(".curr").mouseenter(function(){
+		$(this).attr("style","padding:5px; background:#A7D6FC;");
+	}).mouseleave(function(){
+		$(this).attr("style","padding:5px; background:#FFF;");
+	});
+	
+});
+//-->
+</script>        
+                    
+                </td>
+                
+                <td valign="top" width="30%" class="col-right">
+                	
+<style type="text/css">
+.admins-heads {
+	text-align:center;
+	color:#FFF;
+	padding: 5px 5px;
+	font-size:14px;
+	font-weight: bold; !important
+	
+	
+}
+</style>
+
+<table border="1" bordercolor="#fff" cellpadding="0" cellspacing="0" id="admins-st">
+	        <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">ARCHITECTURE                                 </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. ARCHITECTURE                                                                                                                                     </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     1&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     1&curryear=2020">2020</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">BUSINESS ADMINISTRATION                      </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. ACCOUNTANCY                                                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     C&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     C&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. CUSTOMS ADMINISTRATION                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    56&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    56&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S.B.A. OPERATIONS MANAGEMENT                                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5F&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5F&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S.B.A. FINANCIAL MANAGEMENT                                                                                                                         </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5G&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5G&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S.B.A. MARKETING MANAGEMENT                                                                                                                         </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5H&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5H&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S.B.A. BUSINESS ECONOMICS                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5I&curryear=2018">2018</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5I&curryear=2013">2013</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. HOSPITALITY MANAGEMENT                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5P&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5P&curryear=2020">2020</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">CERTIFICATE PROGRAM                          </td>
+        </tr>
+                <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">EDUCATION                                    </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B. ELEMENTARY EDUCATION                                                                                                                               </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     M&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     M&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B. SEC. EDUC. MAJOR IN ENGLISH                                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    3w&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    3w&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B. SEC. EDUCATION MAJOR IN MAPEH                                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5L&curryear=2013">2013</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5L&curryear=2011">2011</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B. OF SCIENCE IN EXERCISE & SPORTS SCIENCES MAJ IN FITNESS & SPORTS MGT                                                                               </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6y&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6y&curryear=2018">2018</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">ENGINEERING                                  </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. GEOLOGY                                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     Q&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     Q&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. MINING ENGINEERING                                                                                                                               </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     R&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     R&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. CHEMICAL ENGINEERING                                                                                                                             </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     S&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     S&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. CIVIL ENGINEERING                                                                                                                                </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     T&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     T&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. ELECTRICAL ENGINEERING                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     U&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     U&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. MECHANICAL ENGINEERING                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     V&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     V&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. INDUSTRIAL ENGINEERING                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     W&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     W&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. COMPUTER ENGINEERING                                                                                                                             </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     X&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     X&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. ELECTRONICS ENGINEERING                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5f&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5f&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. CHEMICAL PROCESS TECHNOLOGY                                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6E&curryear=2013">2013</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6E&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">DUAL DEGREE OF B.S. MECHANICAL ENGINEERING MAJOR IN MECHATRONICS                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6v&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6v&curryear=2019">2019</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. PETROLEUM ENGINEERING                                                                                                                            </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6Z&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6Z&curryear=2019">2019</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">GRADUATE STUDIES                             </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">DOCTOR OF PHILOSOPHY IN MANAGEMENT                                                                                                                    </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     b&curryear=2014">2014</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     b&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">M.A. EDUCATION w/ Specialization in SCH. ADMI & SUPERVISION                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     d&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     d&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF SCIENCE IN CHEMISTRY                                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     e&curryear=2014">2014</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     e&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF SCIENCE IN MANAGEMENT ENGINEERING</td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     g&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     g&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">M.S. IN PHARMACY                                                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     h&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     h&curryear=2017">2017</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER IN INFORMATION TECHNOLOGY                                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     j&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     j&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN THEOLOGY MAJOR IN SYSTEMATIC STUDIES                                                                                                </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5q&curryear=2011">2011</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5q&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN THEOLOGY MAJOR IN VINCENTIAN                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5r&curryear=2011">2011</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5r&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN THEOLOGY MAJOR IN MORAL STUD                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5s&curryear=2011">2011</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5s&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN THEOLOGY MAJOR IN BIBLICAL STUDIES                                                                                                  </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5t&curryear=2011">2011</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5t&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN THEOLOGY MAJOR IN LITURGICAL                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5u&curryear=2011">2011</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5u&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN CHEMICAL ENGINEERING                                                                                                   </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6g&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6g&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN CIVIL ENGINEERING                                                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6h&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6h&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN COMPUTER ENGINEERING                                                                                                   </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6i&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6i&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN ELECTRICAL ENGINEERING                                                                                                 </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6j&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6j&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN ELECTRONICS ENGINEERING                                                                                                </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6k&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6k&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN INDUSTRIAL ENGINEERING                                                                                                 </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6l&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6l&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ENGINEERING MAJOR IN MECHANICAL ENGINEERING                                                                                                 </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6m&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6m&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF SCIENCE IN BIOLOGY                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6q&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6q&curryear=2016">2016</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF SCIENCE IN CIVIL ENGINEERING MAJOR IN GEOTECH ENGG                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6r&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6r&curryear=2016">2016</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF SCIENCE IN CONSTRUCTION MANAGEMENT                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6t&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6t&curryear="></a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN PSYCHOLOGY W/ SPECIALIZATION IN CLINICAL PSYCHOLOGY                                                                                 </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6V&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6V&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MA IN PSYCH W/ SPEC. IN INDUSTRIAL PSYCHOLOGY                                                                                                         </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6W&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6W&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN PSYCHOLOGY W/ SPECIALIZATION IN DEVELOPMENTAL/EDUCATIONAL PSYCHOLOGY                                                                </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6X&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6X&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">DOCTOR OF PHILOSOPHY IN EDUCATION W/ SPECIALIZATION IN EDUCATIONAL LEADERSHIP                                                                         </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6Y&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6Y&curryear=2014">2014</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER OF ARTS IN EDUCATION WITH SPECIALIZATION IN PHYSICAL EDUCATION AND SPORTS                                                                      </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    70&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    70&curryear=2017">2017</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">DOCTOR OF PHILOSOPHY IN EDUCATION W/ SPECIALIZATION IN PHYSICAL EDUCATION AND SPORTS                                                                  </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    71&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    71&curryear=2017">2017</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">MASTER IN BUSINESS ADMINISTRATION MAJOR IN CUSTOMS COMPLIANCE AND SUPPLY CHAIN MANAGEMENT                                                             </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    75&curryear=2021">2021</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    75&curryear="></a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">LAW                                          </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">JURIS DOCTOR                                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    72&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    72&curryear=2018">2018</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">LIBERAL ARTS                                 </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">A.B. PHILOSOPHY                                                                                                                                       </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     v&curryear=2013">2013</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     v&curryear=2006">2006</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.A.  IN COMMUNICATION                                                                                                                                </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5n&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5n&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.A. IN POLITICAL SCIENCE                                                                                                                             </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6a&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    6a&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">BACHELOR OF ARTS IN PHILOSOPHY                                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    73&curryear=2023">2023</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    73&curryear=2022">2022</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">NURSING                                      </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. NURSING                                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    4Q&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    4Q&curryear=2018">2018</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">PHARMACY                                     </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. PHARMACY                                                                                                                                         </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    11&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    11&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">DOCTOR OF PHARMACY                                                                                                                                    </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    74&curryear=2023">2023</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    74&curryear=2019">2019</a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">SCIENCE                                      </td>
+        </tr>
+                    <tr>
+                <td style="width:450px; padding: 5px;">B.S. COMPUTER SCIENCE                                                                                                                                 </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     n&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     n&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. BIOLOGY                                                                                                                                          </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     o&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     o&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. PSYCHOLOGY                                                                                                                                       </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     r&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     r&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. CHEMISTRY                                                                                                                                        </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     y&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=     y&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. INFORMATION TECHNOLOGY                                                                                                                           </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    3r&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    3r&curryear=2020">2020</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">B.S. INFORMATION SYSTEM                                                                                                                               </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5J&curryear=2022">2022</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    5J&curryear=2018">2018</a></td>
+                            </tr>
+                        <tr>
+                <td style="width:450px; padding: 5px;">DUAL DEGREE OF BACHELOR OF SCIENCE IN COMPUTER SCIENCE AND BS COMPUTER SCIENCE AND INFORMATION ENGINEERING                                            </td>
+                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    76&curryear=2023">2023</a></td>
+                                <td style="padding: 5px; width: 70px; text-align: center; "><a href="./?page=curriculum&cid=    76&curryear="></a></td>
+                            </tr>
+                    <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">SENIOR HIGH SCHOOL                           </td>
+        </tr>
+                <tr>
+            <td colspan="3" class="admins-heads"  style="background-color:#0681c5;">TRANSNATIONAL & DISTANCE EDUCATION           </td>
+        </tr>
+        
+
+    
+</table>               
+				</td>
+            </tr>
+        </table>
+</div>	
+
+    <div id="footer-wrapper">
+	<div id="footer-links">
+    	<table width="100%" id="footer-span">
+        	<tr>
+            	<td width="30%" id="ftradu">
+                	<a href="./?page="""><img src="images/home/adufooter.jpg" /></a>
+                </td>
+               
+                <td width="50%" valign="top" id="ftrfndus">
+                	<h4>Contact Us</h4>
+                    <table id="ftrfndussub">
+                    	<tr>
+                        	<td width="90px" valign="middle"><img src="images/icons/navi.jpg" /></td>
+                            <td valign="top"><a href="https://www.google.com/maps/place/Adamson+University/@14.5869043,120.9856142,18.5z/data=!4m2!3m1!1s0x0000000000000000:0x52dea1e12d0145a0?hl=en" style="color:#FFF;" target="_blank">Adamson University<br />900 San Marcelino Street, Ermita<br>
+                        	1000 Manila, Philippines</a>
+                            
+                            
+                            </td>
+                        </tr>
+                        <tr style="height: 8px;">
+                        	<td></td>
+                            <td></td>
+                        </tr>
+                        
+                        <tr>
+                        	<td><img src="images/icons/telno.jpg" /></td>
+                            <td>8524-20-11<br />
+                            	<a href="./?page=contact-us">View more</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td valign="top"><img src="images/icons/email.jpg" /></td>
+                            <td>webmaster@adamson.edu.ph</td>
+
+                        </tr>
+                        <tr>
+                            <td valign="top"><img src="images/icons/email.jpg" /></td>
+                            <td><a href="./?page=acad-email">Academic Administrators Email Address</a></td>
+                        </tr>
+
+                    </table>
+                </td>
+                <td width="20%" valign="top" id="ftrsocial">
+                	<h4>Stay Connected</h4>
+                    <ul style="margin-bottom: 55px;">
+                    	<li><a href="https://www.facebook.com/AdamsonUniversity.Official/" target="_blank"><img src="images/icons/fb.jpg" /></a></li>
+                    	<li><a href="https://www.twitter.com/adamson_u" target="_blank"><img src="images/icons/tw.jpg" /></a></li>
+                        <li><a href="http://www.youtube.com/user/TheAdamsonUniversity" target="_blank"><img src="images/icons/yt.jpg" /></a></li>
+                       <!-- <li><img src="images/icons/plus.jpg" /></li>-->
+                    </ul>
+                    <h4>Accreditations</h4>
+                    <table id="accreditationsicn">
+                        <tr>
+                            <td><a href="http://www.ched.gov.ph/" target="_blank"><img src="images/icons/ched-logo.png" height="25" class="tiptip" title="CHED" /></a></td>
+                            <td><a href="http://paascu.org.ph/" target="_blank"><img src="images/icons/paascu-logo.png" height="25"  class="tiptip" title="PAASCU"  /></a></td>
+                            <td><a href="https://sites.google.com/ceu.edu.ph/pacucoa/home" target="_blank"><img src="images/icons/pacucoa-logo.png" height="25" class="tiptip" title="PACUCOA"  /></a></td>
+                            <td><a href="./?page=view-news&newsid=1455" target="_blank"><img src="images/icons/iso9001.png" height="25" class="tiptip" title="ISO 9001"  /></a></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id="copyright">
+    	<ul id="copyright-span">
+        	<li>Copyright 2019 &nbsp| &nbspAll Rights Reserved &nbsp| &nbspPowered by Information Technology Center &nbsp| &nbsp <a href="https://www.adamson.edu.ph/?page=view-news&newsid=697">Trademark Notice</a></li>
+            <li style=" margin-left: 32%;"><a href="./?page=sitemap">Site Map</a></li>
+        </ul>
+    	
+    </div>
+</div>        <!-- div id="up-button" title="Back to Top"></div> -->
+  </div>
+</body>
+
+</html>
+
+<script>
+  $(document).ready(function() {
+    $(window).scroll(function() {
+      // get the height of #wrap
+      var h = $('#wrap').height();
+      var y = $(window).scrollTop();
+      if (y > (h * .40)) {
+        // if we are show keyboardTips
+        $("#up-button").fadeIn("fast");
+      } else {
+        $('#up-button').fadeOut('fast');
+      }
+    });
+
+    $('#up-button').click(function() {
+      $('body,html').animate({
+        scrollTop: 0
+      }, 800);
+    });
+  })
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".up-tip").tipTip({
+      delay: 100,
+      defaultPosition: "right"
+    });
+  });
+</script>
+
+

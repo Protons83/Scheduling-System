@@ -1,0 +1,135 @@
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.exe
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.deps.json
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.runtimeconfig.json
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.pdb
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.LoginForm.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.SubjectOffering.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.AdminForm.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.StudentForm.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.Properties.Resources.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.GenerateResource.cache
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.AssemblyInfoInputs.cache
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.AssemblyInfo.cs
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.CoreCompileInputs.cache
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\refint\Scheduling System.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.pdb
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.genruntimeconfig.cache
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\ref\Scheduling System.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.signUp.resources
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.AssemblyReference.cache
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.CopyComplete
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\danna\source\repos\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.StudentEnroll.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.AssemblyReference.cache
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.LoginForm.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.SubjectOffering.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.AdminForm.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.StudentForm.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.Properties.Resources.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.Registration.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling_System.StudentEnroll.resources
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.GenerateResource.cache
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.AssemblyInfoInputs.cache
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.AssemblyInfo.cs
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.csproj.CoreCompileInputs.cache
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.sourcelink.json
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\refint\Scheduling System.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.pdb
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.exe
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.deps.json
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.runtimeconfig.json
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Scheduling System.pdb
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduli.52332443.Up2Date
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\Scheduling System.genruntimeconfig.cache
+C:\Users\CKDC9\Scheduling\Scheduling System\Scheduling System\obj\Debug\net8.0-windows\ref\Scheduling System.dll

@@ -1,0 +1,1605 @@
+body {
+	background-color: #fbfbfb;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+	color: #555555;
+	margin: auto;
+}
+table {
+	 border-collapse: collapse;
+	 margin: 0px !important;
+	 padding:0px !important;
+}
+ul {
+	list-style-type: none;
+	
+}
+a {
+	text-decoration: none;
+	font-weight: 600;
+}
+hr {
+	height:1px;
+	color:#cccccc;
+	border: 0px;
+	background-color: #cccccc;
+}
+
+#up-button { 
+	z-index: 5;
+	border: none;
+	position: fixed;
+	display: none;
+	bottom: 80px;
+	right: 30px;
+	cursor: pointer;
+	height:40px;
+	width:40px;
+	background-image:url(../images/button-up.gif);
+	}
+
+
+#btnprnt {
+	color:#fff;
+	background-color: #0080c9;
+    font-size:18px;
+	height: 40px;
+	padding: 0px 40px 0px 40px;
+    cursor:pointer;
+	border: none;
+	border-bottom: 2px solid #016eac;
+	border-right: 2px solid #016eac;
+	
+}
+#inserted-panel {
+	margin: 20px 0px 20px 0px;
+	background-color:#ececec;
+	width: 100%;
+	border: 10px 0px 10px 0px;
+	
+
+}
+	#inserted {
+		width: 1024px;
+		padding: 25px 0px 25px 0px;
+		margin: auto;
+	}
+	#inserted #homelive {
+		margin-left: 220px;
+	}
+	#inserted #homelive li, #inserted #academics-inserted li {
+		display:inline-block;
+	}
+	#inserted #academics-inserted a {
+		font-size: 18px;
+		color:#5c5a5b;
+	}
+
+#clear {
+	clear:both;
+}
+#primary {
+	margin:auto;
+	width: 100%;
+	
+}
+#topmenu {
+	margin:auto;
+	color:#FFF;
+	/*ADDITIONAL FOR FIXED TOP MENU TEST*/
+	min-width: 1024px;
+	width:100%;
+	
+	/*ADDITIONAL FOR FIXED TOP MENU TEST*/
+}
+#topmenu a {
+	text-decoration:none;
+}
+
+#topbanner {
+	height: 300px;
+	background-color:#999;
+	}
+#accreditationsicn {
+		margin: 0px;
+		padding: 0px;
+		font-size: 13px;
+		 filter: gray; /* IE6-9 */
+		
+	}
+	#accreditationsicn td {
+		padding-right: 10px;
+	}	
+#span3 { 
+	background-color:#003169;
+	height:50px;
+	
+}
+
+#span4 {
+	background-color: #0080c9;
+	height:55px;
+
+}
+
+#span5 {
+	width: 1024px;
+	margin:auto;
+}
+#span6 {
+	width: 1024px !important;
+	margin:auto;
+
+}
+
+#adulogo {
+	height: 55px;
+	width: 290px;
+	padding-top: 3px;
+}
+#menu-minor, #menu-major {
+	font-size: 15px;
+	}
+#menu-minor ul, #menu-major ul {
+	list-style-type:none;
+}
+#menu-minor li {
+	display:inline-block;
+	margin-right: 15px;
+}
+
+.menu-minor2 td {
+padding-right: 20px;
+padding-top: 8px;
+}
+.menu-minor2 a {
+font-size: 12px;
+color:#fff !important;
+
+}
+
+#menu-major li {
+	display:inline-block;
+	margin-right: 30px;
+}
+
+#menu-major a{
+	 color:#FFF;
+	 font-weight: 400;
+	 text-decoration:none;
+ }
+#menu-minor a  {
+	color:#FFF;
+	font-weight: 300;
+	text-decoration:none;
+}
+#menu-minor a:hover, #menu-major a:hover {
+	color:#FFF;
+	/*text-decoration:underline;*/
+}
+#header-banner {
+	height: auto;
+	background-color:#014590;
+	display:block;
+	/*padding-top: 20px;
+	padding-bottom: 40px;*/
+	
+	
+}	
+	#ads-container {
+		width: 1024px;
+		margin:auto;
+		
+	}
+	
+	#header-banner #ads {
+		height: 300px;
+		width: 500px;
+		float:right;
+	}
+	.header {
+		height:50px;
+		background:#F0F0F0;
+		width:960px;
+		margin:0px auto;
+	
+}
+	.header-cont {
+		width:100%;
+		position:fixed;
+		top:0px;
+}
+#homebody, #centrspan, #pagebody {
+	 width: 1024px;
+	/* height: 900px;*/
+	 margin:auto;
+	 line-height: 21px;
+	 min-width: 1024px;
+
+}
+	#homebody p {
+		text-align:justify;
+		font-size: 14px;
+		
+	}
+	#homebody a {
+		
+	}
+	#pagebody p{
+		font-size: 15PX;
+		text-align:justify;
+		line-height: 24px;
+	}
+	#pagebody a {
+		color: #0080c8;
+	}
+	#pagebody ol {
+		line-height: 24px;
+	}
+	#pagebody ol li ul {
+		margin-left: 20px;
+		list-style-type:circle;
+	}
+#carousel-ads {
+	height: 130px;
+	margin-top: 15px;
+	
+}
+	#carousel-ads ul {
+		margin-left: 0px !important;
+		padding: 0px;
+		padding-left: 20px;
+	}
+	#carousel-ads li {
+		
+		display:inline-block;
+		margin-right: 15px;
+	}
+#header-panel {
+	background-color:#014590;
+	height:50px;
+	margin: 0px;
+}
+	#header-panel td {
+		padding-top: 14px;
+		padding-left: 40px;
+		color:#FFF;
+		font-weight: 600;
+	}
+	#header-panel td:nth-child(even) {
+		font-size: 12px;
+	}
+	#header-panel a {
+		color:#FFF;
+		text-decoration:underline;
+		
+	}
+	
+	
+/* START MULTI USE CSS*/
+#separator {
+	height: 5px;
+	/*background-color:#0080c9;*/
+	background-color:#cccccc;
+	margin: 40px 0px 40px 0px;
+
+}
+.dotted-hr {
+	border: 1px dotted #cccccc;
+    border-style: none none dotted; 
+    color: #cccccc; 
+    background-color: #cccccc;
+}
+#full-width-panel {
+	background-color:#003169;
+	padding-bottom: 10px;
+	
+}
+	#full-width {
+		width: 1024px;
+		margin:auto;
+	}
+	#full-width #details-title {
+		font-size: 19px;
+		font-weight: 600;
+		margin-bottom: 0px;
+	}
+	
+	#full-width p {
+		font-size:14px;
+		padding: 0px;
+		margin-top: 0px;
+		padding-top: 15px;
+		text-align:justify;
+	}
+		 
+	.label {
+		background-color: #0d94d6;
+		/*max-width: 80%;
+		min-width: 40%;*/
+		
+	}
+	.label a {
+		padding: 10px 5px 10px 20px;
+		font-size: 14px;
+		display:block;
+	}
+	.label a:hover {
+		text-decoration: none !important;
+	}
+	
+	#paneladmission td ,#panelacademics td  ,#panelsports td{
+		border: thin #FFF solid;
+	}
+	#paneladmission a, #panelaboutadu a, #panelacademics a , #panelsports a {
+		color:#fff;
+		font-weight: 300;
+	}
+	#paneladmission a:hover, #panelaboutadu a:hover {
+		text-decoration:underline;
+		
+	}
+
+	#roundmasking {
+		-webkit-clip-path: circle(50% at 50% 50%);
+		clip-path: circle(50% at 50% 50%);
+		margin: 10px 10px 10px 10px;
+		
+	}
+/* END MULTI USE CSS*/	
+	
+/*START ADMISSION PANEL*/	
+
+#paneladmission  #enrlprocd {
+	background-color:#0d94d6; 
+	height: 190px;
+	padding-top: 0px;
+	padding-left: 40px;
+	color:#FFF;
+	font-size: 14px;
+
+}
+	#paneladmission #eexam {
+		background-color:#0d94d6;
+		padding: 0px;
+		background-image: url(../images/home/uee.jpg);
+	}
+	
+	#paneladmission #eexam .label {
+		width: 70%;
+		margin: 130px 0px 0px 0px;
+	}
+	
+	#paneladmission #locate {
+		background-color:#333;
+		background-image: url(../images/home/locate.jpg);
+		
+		padding: 0px;
+		overflow:hidden;
+	}
+		#paneladmission #locate a {
+			width: 90%;
+			margin: 160px 0px 0px 10px;
+			font-weight: 700;
+			font-size: 18px;
+			color:#333 !important;
+			display:block;
+		}
+		#paneladmission #locate a:hover {
+			text-decoration:none !important;
+		}
+	
+	#paneladmission #scholarship {
+		background-color:#999;
+		padding: 0px;
+		background-image: url(../images/home/scholarship.jpg);
+		background-repeat:repeat-x no-repeat;
+		
+	}
+	#paneladmission #scholarship .label {
+		margin: 140px 0px 0px 0px;
+		width: 40%;
+	}
+	#paneladmission #degreeprg {
+		height: 160px;
+		/* background-image: url(../images/home/uee-application2.jpg); */
+		border: none;
+		padding: 0px;
+	}
+	#paneladmission #tdec {
+		border-left: none;
+		padding: 0px;
+	}
+	#paneladmission #degreeprg .label {
+		margin: 95px 0px 0px 0px;
+		width: 35%;
+		border: none;
+		margin-left: 0px;
+	}
+	#paneladmission #tdec .label {
+		margin: 90px 0px 0px 0px;
+		width: 77%;
+		border: none;
+		margin-left: 0px;
+	} 
+	#paneladmission #tdec {
+		height: 160px;
+		
+		background-image: url(../images/home/tdec.jpg); 
+		
+	}
+	#paneladmission #schoolfee {
+		background-image: url(../images/home/accreditedbanks.jpg);
+		background-repeat: no-repeat;
+		border-top: none;
+	}
+	
+	#paneladmission #schoolfee .label {
+		width: 90%;
+		margin: 230px 0px 0px 0px;
+		border: none;
+		
+	}
+	#paneladmission #whyadamson {
+		background-color:#0d94d6;
+		padding-top: 50px;
+		border-top: none;
+		
+	}
+	#paneladmission #whyadamson a {
+		margin-left: 20px;
+		font-weight: 400;
+		
+	}
+	#paneladmission #svbldg {
+		background-image: url(../images/home/svside.jpg);
+		border-top: none;
+	}
+	#whyadu {
+		width: 500px;
+		font-size: 18px;
+	}
+	
+	#whyadu li {
+		list-style-image: url(../images/bullets/check.png);
+		
+	}
+	#whyadu h3 {
+		font-size: 50px;
+		line-height: 45px; 
+	}
+	#whyadu ul {
+		list-style-type:circle;
+		
+	}
+	#whyadu li {
+		margin-bottom: 20px;
+	}
+	
+	#ueepassers {
+		
+		/* border: #ccc solid thin; */
+	}
+	#ueepassers table td a {
+		background-color:#0080c9;
+		text-align: center;
+		padding-top: 16px;
+		display: block;
+		font-size: 16px;
+		height: 35px;
+		width: 220px;
+		color:#FFF;		
+	}
+	
+/* END  ADMISSION*/	
+/* START NEWS */
+#panelnews {
+	margin: 0px;
+	padding: 0px;
+	border:#cccccc thin solid;
+}
+	#panelnews a {
+		font-weight: 700;
+		color: 5a5a5a;
+	}
+	
+	#panelnews #newshighlight {
+		height: 300px;
+		padding: 10px;
+		
+		
+	}
+		#panelnews #newshighlight h3, #panelnews #newslatest h3  {
+			border-bottom: thin #cccccc solid;
+			padding-bottom: 10px;
+		}
+	
+		#panelnews #newshighlight p, #newslatest p  {
+			font-size: 14px;
+			text-align:justify;
+			color: 5a5a5a;
+		
+		
+		}
+	#panelnews #newslatest {
+		height: 300px;
+		
+	}
+	#panelnews #newslatest h3 {
+		font-size: 16px;
+		
+	}
+	#panelnews #newslatest table td {
+		padding: 0px 20px 5px 5px; 
+	}
+	
+	
+#digitalnews {
+	height: 480px;
+	/*border:#cccccc thin solid;*/
+	padding: 0px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	 width:100%;
+	
+}
+	#digitalnews ul {
+		list-style-type: none;
+		margin: 0px;
+		padding: 0px;
+	}
+
+#digitalnews #featdigital  {
+	/*padding: 0px 30px 30px 80px;*/
+	overflow:hidden;
+}
+	#featdigital li {
+		display:inline-block;
+		margin-top: 20px;
+		width: 24.1%;
+	}
+	#featdigital li p {
+		text-align:center;
+		color:#666;
+		
+	}
+	#featdigital a {
+		color: #0080c8;
+	}
+	#featdigital li div {
+		width: 100%;
+		font-size: 13px;
+		text-align:center !important;
+	}
+	.dgnwstabs, .newsfeatures {
+		width: 100%;
+		/*margin-top: 0px;*/
+		
+	}
+	.dgnwstabs li, .newsfeatures {
+		list-style:none;
+		display:inline;
+	}
+	.newsfeatures a {
+		padding:10px;
+		display:inline-block;
+		background:#c5c5c5;
+		color:#fff;
+		text-decoration:none;
+		font-size: 14px;
+		text-align:center;
+		width: 150px;
+		margin-left: 0px;
+	}
+	.dgnwstabs a {
+		padding:10px;
+		display:inline-block;
+		background:#c5c5c5;
+		color:#fff;
+		text-decoration:none;
+		font-size: 14px;
+		text-align:center;
+		width: 488px;
+		margin-left: 0px;
+	}
+	.dgnwstabs a.active, .newsfeatures a.active{
+		background:#6b6b6b;
+		color:#fff;
+		
+	}
+	
+	#digitaladunews ul {
+	margin: 0px;
+	padding: 0px;
+		}
+		#digitaladunews li {
+			display: inline-block;
+			width: 24.1%;
+			margin-top: 20px;
+		}
+		#digitaladunews li p {
+			text-align: center;
+			
+		}
+		#digitaladunews a {
+			color: #0080c8;
+		}
+		#digitaladunews li div {
+			text-align: center;
+			width: 100%;
+			font-size: 13px;
+		}
+/* END NEWS PANEL*/
+
+
+/* START ABOUT ADU PANEL*/
+	#panelaboutadu {
+		margin-bottom: 50px;}
+	
+	#panelaboutadu #aboutpres {
+		background-color:#0FC;
+		height:300px;
+		background-image:url(../images/home/fr-pilario.jpg);
+		border-top:thin #FFF solid;
+		padding: 0px;
+	}
+	
+		#panelaboutadu #aboutpres .label {
+			margin: 200px 0px 0px 0px;
+			width: 80%;
+		}
+	#panelaboutadu #svdp {
+		border-top:thin #FFF solid;	
+	}
+	#panelaboutadu #briefhistory {
+		background-image:url(../images/home/historyhome.jpg);
+		height: 156px;
+		border-bottom: thin #FFF solid;
+		border-right: thin #FFF solid;
+		padding: 0px;
+		
+	}
+	#panelaboutadu #briefhistory .label {
+		max-width: 85%;
+		margin: 100px 0px 0px 0px;
+		}
+	
+	#panelaboutadu #aduprayer  {
+		background-image:url(../images/home/prayer.jpg);
+		border-bottom: #FFF solid thin;
+		padding: 0px;
+	}
+	
+	#panelaboutadu #aduprayer .label {
+		margin: 95px 0px 0px 0px;
+		width: 57%;
+	}
+	#panelaboutadu #univadmin {
+		background-color:#0d94d6;
+		height: 130px;
+		padding-top: 20px;
+		padding-left: 40px;
+		color:#FFF;
+		font-size: 15px;
+		border-right: #FFF thin solid;
+		border-bottom: none;
+	}
+		#panelaboutadu #univadmin a {
+			font-weight: 400;
+			text-decoration: none;
+		}
+		
+	#panelaboutadu #aduhymn {
+		background-image:url(../images/home/hymn.jpg);
+		padding: 0px;
+	}
+	 #panelaboutadu #aduhymn .label {
+		 width: 43%;
+		 margin: 80px 0px 0px 0px;
+	 }
+	#panelaboutadu #svdp {
+		background-image:url(../images/home/svdp.jpg);
+		padding: 0px;
+		
+	
+	}
+	#panelaboutadu #svdp .label {
+		width: 80%;
+		margin: 260px 0px 0px 0px;
+	}
+	
+	#listadmins {
+		height: 300px;
+		width: 100%;
+		padding-top:20px;
+		display:block;
+		
+	}
+	#listadmins img {
+		-webkit-clip-path: circle(50% at 50% 50%);
+		clip-path: circle(50% at 50% 50%);
+		margin-bottom: 20px;
+		
+	}
+	#listadmins .adminthumb ul {
+		margin-left: 50px;
+	}
+	#listadmins .adminthumb li {
+		display:inline-block;
+		width: 200px;
+		margin-bottom: 20px;
+		margin-right: 3%;
+		vertical-align:top;
+	}
+	#listadmins .adminthumb li img {
+		margin-left: 20px;
+	}
+	#listadmins .adminthumb h4, #listadmins .adminthumb p {
+		text-align:center;
+		margin: 0px;
+	}
+	#indihead {
+		min-height: 50px;
+		margin: auto;
+		width: 350px;
+	
+	}
+	#indihead p, #indihead2 p {
+		font-weight: 600;
+		font-size:18px;
+		color:#FFF;
+		padding-top: 15px;
+		text-align: center;
+		padding-bottom: 5%;
+		
+	}
+	#indihead2 {
+		min-height: 50px;
+		margin: auto;
+		width: 450px;
+	
+	}
+	
+
+/* END ABOUT ADU PANEL*/
+/* START ACADEMICS  PANEL*/
+	#panelacademics {
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+	#panelacademics #coldept {
+		background-image:url(../images/home/acadicons.jpg);
+		background-repeat: no-repeat;
+		height:300px;
+		padding: 0px;
+	}
+	#panelacademics #coldept .label {
+		width: 65%;
+		margin: 265px 0px 0px 0px;
+	}
+	
+	#panelacademics #acadsub {
+		border: none;
+	}
+	
+	#panelacademics #acadcal {
+		/*background-color:#0FC; GREEN MARKER ONLY CALENDAR
+		height: 300px;*/
+		border-left: none;
+		border-top: none;
+		border-right: none;
+	}
+	
+	#panelacademics #acadcal .label a{
+		width: 100%;
+		font-weight: 700;
+		margin auto;
+	}
+	
+	#panelacademics #progstud {
+		background-image:url(../images/home/progstudy.jpg);
+		height: 150px;
+		border: none;
+		padding: 0px;
+	}
+		#panelacademics #progstud .label {
+			width: 50%;
+			margin: 90px 0px 0px 0px;
+		}
+		
+		#panelacademics #acadcuri .label {
+			width: 53%;
+			margin: 90px 0px 0px 0px;
+			border-bottom: none;
+		}
+	
+	#panelacademics #acadcuri {
+		background-image:url(../images/home/academic-curi.jpg);
+		height: 155px;
+		border: none;
+		border-top: thin solid #fff;
+		padding: 0px;
+	}
+	#academic-calendar {
+		background-color:#f6f6f6;
+		border:#dbdbdb thin solid;
+		padding: 10px 10px 10px 10px;
+		margin-bottom: 10px;
+	}	
+	#calendarpossitioning {
+		width:240px !important;
+		margin: 10px 0px 10px 10px!important;
+		/*overflow:scroll;*/
+	}
+		#calendarpossitioning td {
+			border: none;
+			border-bottom: solid thin #d8d8d8;
+			margin-top: 10px;
+			
+		}
+		#calendarpossitioning #cal-date {
+			color:#333;
+			font-weight: 700;
+			text-align: center;
+			font-size: 16px;
+			padding: 0px 10px 10px 0px;
+			
+		}
+		#cal-date:hover, #cal-event:hover {
+			color:#FFF;
+		}
+		#calendarpossitioning #cal-event {
+			width: 220px;
+			padding: 5px 10px 20px 10px;
+			color:#333;
+			font-weight: 400;
+			font-size: 13px;
+		}
+		#calendarpossitioning #cal-event2 {
+			width: 220px;
+			padding: 5px 10px 5px 10px;
+			color:#333;
+			font-weight: 400;
+			font-size: 13px;
+			text-align:left;
+			background-color:#000;
+		}
+		#calendarhome {
+			width:300px !important;
+			margin: 10px 0px 10px 10px!important;
+			
+		}
+		#calendarwidget { 
+			height: 235px;
+			overflow:scroll;
+			overflow-x:hidden;
+		}
+		#calendarhome #cal-date {
+			color:#333;
+			font-weight: 700;
+			text-align: center;
+			font-size: 14px;
+			padding: 5px 0px;
+		}
+		#calendarhome #cal-event {
+			width: 230px;
+			padding: 3px 3px 3px 10px;
+			color:#333;
+			font-weight: 400;
+			font-size: 13px;
+			text-align:left;
+		}
+		#calendaramore {
+			height: 25px;
+			background-color:#0d94d6;
+			width:100%;
+			padding-top: 5px;
+		}
+			#calendaramore a {
+				font-size: 14px;
+				margin-left: 120px;
+				font-weight: 600px;
+				color:#FFF;
+			}
+			#calendaramore a:hover {
+				font-weight: 400;
+				text-decoration:underline;
+			}
+	#academicspage a {
+		color:#0080c8;
+	}
+	
+	#dept td {
+		background-color:#fbfbfb;
+		width: 233px;
+	}
+	
+	#dept #thumbspan {
+		margin-right: 10px;
+		margin-bottom: 10px;
+		border: 1px #dbdbdb solid;
+		height: 180px;
+	}
+	#dept #ddeptbgtitle {
+		background-color:#777;
+		/*height: 60px;*/
+		height: 30%;
+		margin-top: 40px;
+		text-align:center;
+		padding-top: 15%;
+		padding-left: 10px;
+		padding-right: 10px;
+		color:#FFF;
+		/*padding:30px 5px 20px 5px;*/
+	}
+	#dept #ddeptbgtitle2 {
+		background-color:#777;
+		height: 65px;
+		
+		margin-top: 40px;
+		text-align:center;
+		padding-top: 10%;
+		padding-left: 10px;
+		padding-right: 10px;
+		color:#FFF;
+		/*padding:30px 5px 20px 5px;*/
+	}
+	
+	#dept #ddeptbgtitle:hover, #dept #ddeptbgtitle2:hover {
+		background-color: #0080c9;
+		cursor: pointer;
+		-webkit-transition: background-color 1s ease-out;
+		-moz-transition: background-color 1s ease-out;
+		-o-transition: background-color 1s ease-out;
+		transition: background-color 1s ease-out;
+	}
+	#dept #ddeptbgtitle a,#dept #ddeptbgtitle2 a {
+		
+		text-align:center;
+	}	
+/* END ACADEMICS  PANEL*/
+
+/* START SPORTS  PANEL*/
+	#panelsports {
+	margin: 0px;
+	padding: 0px;
+	}
+		#panelsports #soaring {
+			height: 200px;
+			padding-top:15px;
+			
+		}
+		#panelsports #sportslist {
+			height: 200px;
+		}
+		#panelsports #sportslist a {
+			 color:#666;
+			 font-size: 14px;
+			 font-weight: 600;
+		}
+		
+
+/* END SPORTS  PANEL*/
+
+/*START FOOTER STYLES*/
+	#footer-wrapper {
+		background-color: #0080c9;
+		width: 100%;
+		position: static;
+		bottom: 0px;
+		
+		min-width: 1024px;
+		margin:auto;
+		margin-top: 30px;
+		
+		
+	}
+		#footer-links {
+			background-color: #0080c9;
+			width: 1024px;
+			margin: auto;
+			font-size: 14px;
+			color:#FFF;
+			min-height: 250px;
+			}
+			#footer-links ul {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			#footer-span {
+				height: 60px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+				#footer-span #ftradu {
+				}
+				#footer-span #ftrlnks li {
+					list-style-type: disc;
+					margin-left: 5px;
+				}
+				/*#footer-span #ftrfndus #ftrfndussub td {
+					margin-bottom: 25px;
+					font-size: 14px;
+				}*/
+				#footer-span #ftrfndus a {
+					color:#FFF;
+				}
+				#footer-span #ftrsocial li {
+					display:inline-block;
+				}
+			
+			
+		#copyright {
+			height: 50px;
+			background-color: #014590;
+			color:#FFF;
+			font-size: 12px;
+		}
+			#copyright a {
+				color:#FFF;
+				font-size: 12px;
+			}
+	
+			#copyright #copyright-span {
+				width: 1024px;
+				margin: auto;
+				padding-top: 15px;
+			}
+			#copyright #copyright-span li {
+				display:inline-block;
+				
+			}
+
+/*END FOOTER STYLES*/
+
+/*START BUTTON STYLES*/
+.button, .button span {
+	display: inline-block;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+.button {
+	white-space: nowrap;
+	line-height:1em;
+	position:relative;
+	outline: none;
+	overflow: visible; 
+	cursor: pointer;
+	border: 1px solid #999;
+	border: rgba(0, 0, 0, .2) 1px solid;
+	user-select: none;
+	margin-bottom:10px;
+	background-color:#0080c8;
+	
+}
+.button span {
+	position: relative;
+	border-top: rgba(255, 255, 255, .2) 1px solid;
+	padding:0.6em 1.3em;
+	line-height:1em;
+	text-decoration:none;
+	text-align:center;
+	white-space: nowrap;
+}
+.button span a {
+	color:#FFF;
+	font-weight: 300;
+	font-size: 14px;
+}
+.button:active, .button.active {
+	top:1px;
+}
+
+/*END BUTTON STYLES*/
+
+/*START BREADCRUMPS*/
+#breadcrumbs {
+		height: 20px;
+		width: 100%;
+		background-color:#FFF;
+		margin: 15px 0px 13px 0px;
+		border:#CCC solid thin;
+		padding: 10px 0px 10px 0px;
+		 border-radius: 5px;
+		
+	}
+	#breadcrumbs a {
+		font-size: 13px;
+		margin-left: 25px;
+		color:#999;
+		font-weight: 600;
+		
+	}
+	#breadcrumbs img {
+		margin-left: 30px;
+	}
+	
+/*END BREADCRUMPS*/	
+
+	#aboutpage ul {
+		margin: 0px;
+		padding: 0px;
+	}
+	#primary-two-cols {
+		margin-bottom: 20px !important;
+	}
+	
+
+.wrapper-cols {
+		padding-right: 15px;
+	}
+		.wrapper-cols img {
+			float:left;
+			clear:right;
+			display:block;
+			margin-right: 15px;
+			margin-bottom: 15px;
+			margin-top: 15px;
+		}
+		.wrapper-cols p{
+			  text-align:left;
+   			 display:block;
+		}
+		.wrapper-cols ul {
+			padding: 0px;
+		}
+		.wrapper-cols #news-archive li {
+			/*border-bottom:#dbdbdb thin solid;*/
+			/*border:#CCC thin solid;*/
+			border-bottom:#dbdbdb thin solid;
+			border-top:#dbdbdb thin solid;
+			border-right:#dbdbdb thin solid;
+			
+			background-color:#FFF;
+			width: 94%;
+			padding: 20px;
+			margin-bottom: 10px;
+		}
+		.wrapper-cols #news-archive h3 {
+			margin: 0px;
+			padding: 0px;
+		}
+		.wrapper-cols h2 {
+			line-height: 24px;
+		}
+		.wrapper-cols #article-title {
+			font-family: 'Vollkorn', serif;
+			font-size: 32px;
+			margin-top: 15px;
+			margin-bottom: 10px;
+			line-height: 34px;
+		}
+#news-archive a {
+	color: #666;
+	
+}
+#news-archive a:hover {
+	text-decoration: underline;
+}
+	 
+#contactinfo {
+	background-color:#e7f3ff;
+	border:#dbdbdb thin solid;
+	margin-top:10px;
+	padding: 0px 20px 10px 20px;
+	margin-right: 20px;
+	display:block;
+
+
+	
+	
+}
+#contactinfo  table {
+	font-size: 14px;
+}
+
+.sidecontainer {
+	background-color:#FFF;
+	border:#dbdbdb thin solid;
+	padding: 10px 25px 25px 30px;
+	margin-bottom: 10px;
+	
+	
+}
+	.sidecontainer li, .sideplain li {
+		margin-left: 0px !important;
+		padding: 0px;
+		margin-bottom: 10px;
+		
+	}
+	.sidecontainer a, .sideplain a  {
+		/*color:#333;*/
+		color: #0080c8;
+	}
+	
+	.sidecontainer a:hover, .sideplain a:hover  {
+		text-decoration:underline;
+		/*padding: 5px 10px 5px 0px;
+		margin-left: 5px;*/
+		
+	}
+	.sidecontainer ul, .sideplain ul {
+		margin: 0px;
+		padding: 0px;
+		margin-top: 15px;
+	}
+	.sidecontainer #side-adminlist li {
+		margin-bottom: 20px !important;
+	}
+	.sidecontainer #side-adminlist li span {
+		font-weight: 700;
+	}
+	.sidecontainer .dateposted{
+		font-size: 12px;
+		margin: 0px !important;
+		}
+	.dateposted {
+		font-size:12px;
+		margin: 0px !important;
+		color:#555555;
+	}
+	.sidecontainer  #sportshighlight  h2 {
+		margin-bottom: 0px !important;
+		
+	}
+	.sidecontainer  #sportshighlight  h2 a {
+		color:#666;
+		font-weight: 700;
+	}
+	.sidecontainer #newshmepnels h2 {
+		margin-bottom: 0px !important;
+	}
+	#newshmepnels h3 a {
+		color:#666;
+		font-weight: 700;
+		}
+
+.sideplain {
+	background-color:#FFF;
+	border:#dbdbdb thin solid;
+	padding: 10px 10px 10px 25px;
+	margin-bottom: 10px;
+}
+	
+	
+#library-hrs {
+	margin-left: 40px; margin-top: 0px !important;
+	margin-bottom: 20px;
+}
+
+	#library-hrs li:first-child {
+		font-weight: 700;
+		text-decoration:underline;
+		
+	}
+	
+.library-list {
+	list-style-type:circle;
+	
+}
+.library-list li {
+	margin-left: 20px;
+}
+.sportsthumb {
+	background-color:#FFF;
+	border:#dbdbdb thin solid;
+	width:251px;
+	height:auto;
+	overflow:hidden;
+	margin-bottom: 5px;
+
+	}
+	.sportsthumb h4 {
+	 	margin-left: 20px;
+	}
+	.sportsthumb img {
+		 width: 100%;
+	}
+	
+	
+/*ACADEMICS CSS INSIDE*/
+#acad-wrapper {
+		width:100%;
+	}
+	#acad-wrapper img {
+		margin-bottom: 20px;
+		padding: 0!important;
+	}
+	#acad-wrapper ul {
+		margin: 0px;
+		padding: 0px;
+		margin-top: 10px;
+	}
+	#acad-wrapper li {
+		border:#e1e1e1 thin solid;
+		height: 220px;
+		width: 210px;
+		overflow:hidden;
+		display:inline-block;
+		margin-left: 15px;
+		margin-bottom: 15px;
+		
+	}
+	#acad-wrapper li img {
+		margin-top: 0px;
+	}
+	
+	#acad-wrapper li .overview {
+		padding-left: 20px;
+	}
+	
+/*NEWS CSS INSIDE*/	
+#proceed {
+	font-size: 12px;
+	margin-right: 10px;
+}
+#news-more {
+        border:#e2e2e2 thin solid;
+        background-color:#f6f6f6;
+        text-align:center;
+        padding: 5px;
+        font-weight: 600;
+		color:#666;
+    }
+    #news-more:hover {
+        border:#e2e2e2 thin solid;
+        background-color:#0d94d6;
+        text-align:center;
+        padding: 5px;
+        font-weight:700;
+		color:#FFF;
+    }
+#articlehome {
+	width: 310px;
+	height: 350px;
+	margin: 10px 10px 0px 20px;
+	float:left;
+	
+}
+	#articlehome:nth-child(even) {
+		margin-left: 10px !important;
+		margin-right: 0px;
+		}
+	#articlehome .dateposted{
+		font-size:12px;
+		color: #555555;
+	}
+	#articlehome #title {
+		color: #666666;
+	}
+	/*Used on the legends panel on view-news*/
+		.sidecontainerlegend {
+			padding: 10px;
+			margin-bottom: 20px;
+		}
+		#legendarchive td{
+			font-size: 14px;
+		}
+		#legendarchive1 {
+			height:20px;
+			width:40px;
+		}
+
+/*JOBS CSS INSIDE*/	
+#jobs-tab {
+	border:#dbdbdb thin solid;
+	padding: 10px 10px 10px 20px;
+}
+#jobs-tab ul {
+	margin-left: 20px;
+	padding: 0px;
+	list-style-type:circle;
+}
+#jobs-tab p {
+	font-size: 14px;
+}
+#placement-company {
+		padding-right: 10px;
+		padding-top: 20px;
+		padding-left: 50px;
+	}
+#palcement-company img{
+	background-color:#9CF;
+	height: 100px;
+	width: 100px;
+}
+#placement-position {
+	padding-right: 20px;
+}
+#placement-position div {
+	padding-left: 45px;
+	
+}
+#placement-position ul {
+	list-style-type: circle;
+}
+
+#placement-home #placement-ofc {
+		border:#CCC solid thin;
+		margin-left: 20px;
+		margin-right: 20px;
+		padding: 0px 20px 10px 20px;
+	}
+	#placement-home #placement-ofc h3 {
+		
+	}
+	#placement-home #placement-ofc a {
+		color:#0080c8;
+	}
+	#placement-home #placement-ofc a:hover {
+		text-decoration:underline;
+	}
+	#placement-home #placement-ofc ul  {
+		list-style-type: circle;
+	}
+	#placement-home #placement-ofc li {
+		font-size:14px;
+	}
+	#placement-home #placement-ofc:first-child {
+		margin-left: 0px !important;
+	}
+	#placement-home #placement-ofc img {
+		width: 100%;
+		margin: 15px 0px 10px 0px;
+	}
+	#jobsviewall {
+		width: 100%;
+	}
+	
+<!--START STUDENTS PAGE-->
+#studentslife {
+		width: 100%;
+		text-align:center;
+	}
+	#studentslife p, #studentslife h2{
+		text-align:center;
+	}
+	
+	#three-col {
+		width: 100%;
+		margin-left: 30px;
+	}
+	#three-col ul {
+		list-style-type:none;
+		margin: 0px;
+		padding: 0px;
+	}
+	#three-col li {
+		display:inline-block;
+		height: 390px;
+		width: 28%;
+		text-align:center;
+		border:#CCC thin solid;
+		float:left;
+		background-color:#FFF;
+	}
+	#three-col li .panels {
+		height: 35px;
+		background-color:#0080c9;
+		margin: 0px;
+		padding-top: 10px;
+		padding-left: 20px;
+	}
+	#three-col li .panels p {
+		font-size: 15px;
+		margin: 0px;
+		color:#FFF;
+		font-weight: 600;
+		
+	}
+	#three-col li .panels2 {
+		height: 45px;
+		background-color:#0080c9;
+		margin: 0px;
+		padding-top: 10px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	#three-col li .panels2  p {
+		font-size: 13px;
+		margin: 0px;
+		color:#FFF;
+		font-weight: 600;
+	}
+	#three-col li img {
+		margin-top: 30px;
+	}
+	#three-col li p {
+		margin: 20px;
+	}
+	.falconradio {
+		background-color: #efefef;
+		height: 280px;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.falconradio-cont {
+		margin: auto;
+		width: 1024px;
+		padding-top: 20px;
+		padding-bottom: 0px;
+	}
+<!--end STUDENTS PAGE-->
+
+#accordion {
+	display:inherit;/*
+	margin-bottom:10px;*/
+}
+
+#accordion > h3  {
+	margin-top: 3px;
+	background-color:#0094da;
+	/*border: thin solid #CCC;;*/
+	padding: 20px;
+	cursor:pointer;
+	font-size: 17px;
+	color:#FFF;
+	font-weight: 400;
+}
+#accordion-details {
+	margin-top: 10px;
+	margin-left: 30px;
+	font-size: 15px;
+	list-style-type: disc;
+	line-height: 24px;
+}
+#accordion-details ul {
+	margin-left: 20px;
+}
+
+#school-feeslist td {
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+#school-feeslist #descp {
+	background-color:#0080c9;
+	color:#FFF;
+	
+}
+
+#eventlist ul {
+		list-style-type: none;
+		
+	}
+	#eventlist li {
+		/*background-color:#f5f5f5;*/
+		height: auto;
+		width:100%;
+		margin-bottom: 10px;
+		padding-bottom: 20px;
+		padding-top: 20px;
+		border-bottom: #0080c9 solid 3px;
+	}
+	#eventlist table td img {
+		margin: 0px;
+		padding: 0px;
+		border:#666 thin solid;
+	}
+	#eventlist #eventdetails {
+		padding-left: 20px;
+		padding-bottom: 0px;
+		margin: 0px;
+	}
+	#headerimgbg-span {
+		overflow: hidden !important;
+		width: 100%;
+		border-bottom:#0080c9 solid 5px;
+		
+		height: 350px;
+	}
+	#headerimgbg {
+		text-align:center;
+		
+	}
+.requiredmsg {
+	color: #F00;
+	font-weight: 600;
+	font-size: 16px;
+}
